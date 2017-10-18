@@ -15,8 +15,16 @@ Like it? :star: it and [share](https://twitter.com/intent/tweet?text=Every+Mobil
 
 ## Platforms
 ### iOS
-xcode
-Storyboards
-Controllers
+* xcode
+* Storyboards
+* Controllers
 
 ### Android
+* Android Studio
+* Android SDK
+* Layouts
+* Activities
+
+## Concepts
+* Threading & Async/Await
+* Offline sync
